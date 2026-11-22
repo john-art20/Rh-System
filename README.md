@@ -13,7 +13,7 @@ Em desenvolvimento
 - João Arthur Pozsebon
 
 ## Objetivo do software
-Ser um projeto básico que demonstra as funções de um sistema de RH
+Ser um projeto básico que demonstra as funções de um sistema de RH empresarial no dia a dia.
 
 ## Funcionalidades do sistema
 - Verificação de níveis de login
